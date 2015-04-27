@@ -14,7 +14,7 @@ threadsafe: true
 
 # Handlers define how to route requests to your application.
 handlers:
-- url: /css
+- url: /css 
   static_dir: css
 - url: /js
   static_dir: js
